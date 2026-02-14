@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "プライマル",
+  "base_artist": "Tokyo Incidents",
+  "createdAt": "2026-02-14T15:19:40.333896Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "プライマル。",
+      "artist": "THE YELLOW MONKEY",
+      "has_synced": true,
+      "path": "select/01_プライマル。_THE_YELLOW_MONKEY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "プライマル",
+      "artist": "Original Love",
+      "has_synced": true,
+      "path": "select/02_プライマル_Original_Love.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "プライマル",
+      "artist": "ORIGINAL LOVE",
+      "has_synced": true,
+      "path": "select/03_プライマル_ORIGINAL_LOVE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "プライマル",
+      "artist": "オリジナル・ラヴ",
+      "has_synced": true,
+      "path": "select/04_プライマル_オリジナル・ラヴ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "プライマル",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_プライマル_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "プライマル",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_02_プライマル_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "プライマル",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_03_プライマル_東京事変.txt"
+    }
+  ]
+}
